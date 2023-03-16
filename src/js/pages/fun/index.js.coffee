@@ -5,10 +5,8 @@ class FunPage extends Page
 
   URLS: [
     ['http://reddit.com/', 'Reddit']
-    ['http://www.nicovideo.jp', 'NicoNico']
     ['https://youtube.com', 'YouTube']
-    ['http://share.dmhy.org/', 'DMHY']
-    ['http://www.bilibili.com/', 'bilibili']
+    ['https://jellyfin.micahsoft.net', 'Jellyfin']
   ]
 
   constructor: ->

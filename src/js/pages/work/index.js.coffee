@@ -4,11 +4,8 @@ class WorkPage extends Page
   NAME: 'work'
 
   URLS: [
-    ['http://canvas.ust.hk/', 'Canvas']
-    ['http://outlook.com/', 'Outlook']
-    ['http://o365.ust.hk/', 'HKUST Email']
-    ['http://mail.ck2ustudio.com/', 'Ck2uStudio Email']
-    ['https://github.com/tommyku', 'GitHub']
+    ['https://github.com/micahsoftdotexe', 'GitHub']
+    ['https://wiki.archlinux.org/', 'Arch Wiki']
   ]
 
   constructor: ->
